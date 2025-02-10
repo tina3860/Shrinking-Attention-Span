@@ -5,6 +5,7 @@ My project explores how digital media and technology have influenced the human a
 
 
 Resources:
+
 Determining Typical Smartphone Usage - Research Portal | Lancaster University. 2016, www.research.lancs.ac.uk/portal/en/publications/determining-typical-smartphone-usage(c13fd709-d781-4c49-a334-790d 51dea2e1).html.
 
 Smartphone Usage and Behavioral Dataset. 23 Oct. 2024, www.kaggle.com/datasets/bhadramohit/smartphone-usage-and-behavioral-dataset. 
